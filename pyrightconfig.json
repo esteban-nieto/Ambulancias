@@ -1,0 +1,7 @@
+{
+  "typeCheckingMode": "off",
+  "reportMissingTypeStubs": false,
+  "reportGeneralTypeIssues": false,
+  "reportOptionalMemberAccess": false,
+  "reportUndefinedVariable": false
+}
